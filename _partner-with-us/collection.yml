@@ -2,4 +2,4 @@ collections:
   partner-with-us:
     output: true
     order:
-      - Partnerships.md
+      - Partner With Us.md
