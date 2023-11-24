@@ -1,6 +1,6 @@
 ---
 title: In The News
 permalink: /what-is-new/news/
-variant: tiptap
+variant: markdown
 description: ""
 ---
