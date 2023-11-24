@@ -38,7 +38,7 @@ description: ""
 		</div>
 		<div class="media-card-plain bg-media-color-3 padding--lg">
                             <div class="center">
-                               <img src="![](/images/1696951046237.jpeg)/">
+                               ![](/images/1696951046237.jpeg)
                                </div>
 		</div>
                         </div>
