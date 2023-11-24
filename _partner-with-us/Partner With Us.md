@@ -68,6 +68,8 @@ description: ""
 		</div>
 	</div>
 </div>
+<div>
 <h2>Current Partners</h2>
 	<p>Join our growing network of partners</p>
-	 <img alt="Partners" src=""> 
+	 <img alt="Partners" src="/images/Placeholder%20test%20images%20/fake%20partners.png"></div>
+	<p><a class="bp-button is-primary is-uppercase search-button" href="">Work with us!</a></p>
