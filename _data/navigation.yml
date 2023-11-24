@@ -1,5 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About Us
+    collection: about-us
+  - title: Join Us
+    collection: join-us
   - title: Partner With Us
     collection: partner-with-us
   - title: Contact Us
