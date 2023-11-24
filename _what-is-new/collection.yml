@@ -1,0 +1,4 @@
+collections:
+  what-is-new:
+    output: true
+    order: []
