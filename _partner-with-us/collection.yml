@@ -1,5 +1,5 @@
 collections:
-  parnership:
+  partner-with-us:
     output: true
     order:
       - Partnership.md
