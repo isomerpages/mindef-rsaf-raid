@@ -2,4 +2,5 @@ collections:
   what-is-new:
     output: true
     order:
+      - In The News.md
       - Upcoming Events.md
