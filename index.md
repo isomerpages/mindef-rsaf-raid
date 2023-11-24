@@ -9,10 +9,16 @@ sections:
   - hero:
       background: /images/Hero_Image_001.jpeg
       variant: image
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: To bring smarts and smiles to our Air Force and our Airmen
+      subtitle: MISSION
+      id: infopic
+      image: /images/1685636480554.jpeg
+      alt: Image alt text
+  - infopic:
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      subtitle: VISION
+      id: infopic
+      image: /images/1685636474423.jpeg
+      alt: Image alt text
 ---
