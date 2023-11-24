@@ -68,3 +68,6 @@ description: ""
 		</div>
 	</div>
 </div>
+<h2>Current Partners</h2>
+	<p>Join our growing network of partners</p>
+	 <img alt="Partners" src=""> 
