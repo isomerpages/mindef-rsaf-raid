@@ -8,7 +8,7 @@ description: ""
 	<div id="2023" class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element">
 		<div class="media-card-plain bg-media-color-1 padding--lg">
                             <div>
-                                <small class="has-text-white padding--bottom bold">History</small>
+                                <h2>History</h2>
                                </div>
                         </div>
                         
