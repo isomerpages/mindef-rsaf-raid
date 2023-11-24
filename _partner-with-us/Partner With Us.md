@@ -41,28 +41,29 @@ description: ""
 <div class="row">
 	<div class="col">
 	 <div class="card sgds">
-		 <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/f09f28d1-14c2-45a5-9477-527222cae18d/Air-Combat-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18\_1QK41482L8HD90QOSSLBSG34O4-f09f28d1-14c2-45a5-9477-527222cae18d-mBdlcG7" alt="" class="card-img-top"> 
+		 <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/a0b0322d-7123-414f-b3f0-5419f5374b10/Participation-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-a0b0322d-7123-414f-b3f0-5419f5374b10-mBdrffN" alt="Participation Command" class="card-img-top"> 
 		 <div class="card-body"> 
-			 <h3 class="card-title">Air Combat Command</h3> 
-			 <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-combat-command" class="card-link">Read More</a>
+			 <h3 class="card-title">Participation Command</h3> 
+			 <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/participation-command" class="card-link">Read More</a>
 		 </div>
 		</div>
 	</div>
 <div class="col">
 	 <div class="card sgds">
-		 <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/f09f28d1-14c2-45a5-9477-527222cae18d/Air-Combat-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18\_1QK41482L8HD90QOSSLBSG34O4-f09f28d1-14c2-45a5-9477-527222cae18d-mBdlcG7" alt="" class="card-img-top"> 
+		 <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/1c6bad85-9f3f-4296-b35b-338b545bc6f2/UAV-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-1c6bad85-9f3f-4296-b35b-338b545bc6f2-mBdvCZO" alt="Unmanned Aerial Vehicle Command" class="card-img-top"> 
 		 <div class="card-body"> 
-			 <h3 class="card-title">Air Combat Command</h3> 
-			 <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-combat-command" class="card-link">Read More</a>
+			 <h3 class="card-title">Unmanned Aerial Vehicle Command
+</h3> 
+			 <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/unmanned-aerial-vehicle-command" class="card-link">Read More</a>
 		 </div>
 		</div>
 	</div>
 	<div class="col">
 	 <div class="card sgds">
-		 <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/f09f28d1-14c2-45a5-9477-527222cae18d/Air-Combat-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18\_1QK41482L8HD90QOSSLBSG34O4-f09f28d1-14c2-45a5-9477-527222cae18d-mBdlcG7" alt="" class="card-img-top"> 
+		 <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/f7eb8601-f1dd-4b4a-8ed8-86362076852e/Air-Force-Training-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-f7eb8601-f1dd-4b4a-8ed8-86362076852e-mJ4nEWv" alt="Air Force Training Command" class="card-img-top"> 
 		 <div class="card-body"> 
-			 <h3 class="card-title">Air Combat Command</h3> 
-			 <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-combat-command" class="card-link">Read More</a>
+			 <h3 class="card-title">Air Force Training Command</h3> 
+			 <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-force-training-command" class="card-link">Read More</a>
 		 </div>
 		</div>
 	</div>
