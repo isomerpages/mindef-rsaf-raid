@@ -70,7 +70,4 @@ description: ""
 			<div class="col"><a class="is-highlight" href="/about-smart-nation/secure-smart-nation/report-data-incident"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Software Engineering Squadron (SES)</p></div></a></div>
 			<div class="col"><a class="is-highlight" href="/community/smart-nation-ambassadors"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Cyber Defence</p></div></a></div>
 			<div class="col"><a class="is-highlight" rel="noreferrer" target="_blank" href="https://together.smartnation.gov.sg/"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">SWIFT</p></div></a></div></div>
-	<div class="col"><a class="is-highlight" rel="noreferrer" target="_blank" href="https://together.smartnation.gov.sg/"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">RSAF Data Office (RDO)</p></div></a></div></div>
-	<div class="col"><a class="is-highlight" rel="noreferrer" target="_blank" href="https://together.smartnation.gov.sg/"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Plans Processes Partnership People Branch (P4B)</p></div></a></div>
-  
-</section>
+</div></section>
