@@ -4,12 +4,33 @@ permalink: /about-us/what-we-do/
 variant: markdown
 description: ""
 ---
-<div class="card sgds">
-        <div class="card-body">
-           <h3 class="card-title">Card Title</h3>
-           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-              content.
-           </p>
-           <a href="#" class="card-link">Go somewhere</a>
-        </div>
-     </div>
+<h2><span style="color:#081f3c">Expertise</span></h2>
+
+<div class="row">
+<div class="col">
+<img alt="data science" src="/images/Expertise%20/Untitled_presentation.png"><br>
+<br>
+</div>
+	<div class="col">
+<img alt="data science" src="/images/Expertise%20/Untitled_presentation__1_.png"><br>
+<br>
+</div>
+<div class="col">
+<img alt="data science" src="/images/Expertise%20/Untitled_presentation__2_.png"><br>
+<br>
+</div>
+<br>
+<div class="row">
+<div class="col">
+<img alt="data science" src="/images/Expertise%20/Untitled_presentation__3_.png"><br>
+<br>
+</div>
+<div class="col">
+<img alt="data science" src="/images/Expertise%20/Untitled_presentation__4_.png"><br>
+<br>
+</div>
+<div class="col">
+<img alt="data science" src="/images/Expertise%20/Untitled_presentation__5_.png"><br>
+<br>
+</div>
+</div></div>
