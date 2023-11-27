@@ -9,7 +9,7 @@ description: ""
 	<div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
 		<div class="media-card-plain bg-media-color-3 padding--sm">
                             <div class="center">
-                                <h3 class="has-text-white">History</h3>
+															<h3 class="has-text-white"><center>History</center></h3>
                                </div>
 		</div>
                         </div>
@@ -33,7 +33,7 @@ description: ""
 	<div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
 		<div class="media-card-plain bg-media-color-3 padding--sm">
                             <div class="center">
-                                <h3 class="has-text-white">Founding Stories</h3>
+															<h3 class="has-text-white"><center>Founding Stories</center></h3>
 															<img src="/images/1696951046237.jpeg">
 
                                </div>
@@ -44,8 +44,8 @@ description: ""
 
 <div class="container margin--top--lg">
 <section class="bp-section is-paddingless" id="key-highlights">
-  <div class="bp-container has-text-centered">
-    <div class="row"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs has-text-centered">Our People</p></div></div>
+  <div class="bp-container">
+    <div class="row"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs"></p><center>Our People</center><p></p></div></div>
   </div>
 </section>
 	</div>
@@ -57,7 +57,7 @@ description: ""
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Head RAiD</h5>
+				<h5 class="card-title"><center>Head RAiD</center></h5>
         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex </p>
       </div>
     </div>
