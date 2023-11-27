@@ -10,7 +10,7 @@ description: ""
 <hr>
 <div>
   <table>
-     <tbody style="border:solid">
+     <tbody style="border:solid #D3D3D3">
         <tr>
             <td>
                 <h5>Lorem Ipsum</h5>
