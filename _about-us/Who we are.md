@@ -63,3 +63,7 @@ description: ""
     </div>
   </div>
 </div>
+
+<div class="bp-container">
+    <div class="row is-gapless has-text-centered"><div class="col"><a class="is-highlight" href="/about-smart-nation/secure-smart-nation/report-data-incident"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Report a Government Data Incident</p><p class="has-text-white-trans padding--bottom--sm">Help safeguard our ICT systems</p></div></a></div><div class="col"><a class="is-highlight" href="/community/smart-nation-ambassadors"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Become a Smart Nation Ambassador</p><p class="has-text-white-trans padding--bottom--sm">Join us on our transformative journey</p></div></a></div><div class="col"><a class="is-highlight" rel="noreferrer" target="_blank" href="https://together.smartnation.gov.sg/"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Pick Up New Tech Skills</p><p class="has-text-white-trans padding--bottom--sm">Check out our webinars</p></div></a></div></div>
+  </div>
