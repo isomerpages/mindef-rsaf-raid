@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <div class="container">
-	<div class="row is-multiline">
+	<div class="row is-multiline is-gapless">
 	<div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
 		<div class="media-card-plain bg-media-color-3 padding--lg">
                             <div class="center">
@@ -21,7 +21,7 @@ description: ""
 		</div>
                         </div>
 	</div>
-<div class="row is-multiline">
+<div class="row is-multiline is-gapless">
 	
 	<div class="col">
 		<div class="media-card-plain bg-media-color-1 padding--lg">
@@ -34,11 +34,16 @@ description: ""
 		<div class="media-card-plain bg-media-color-3 padding--lg">
                             <div class="center">
                                 <h3 class="has-text-white">Founding Stories</h3>
-															<img>
-															![RAiD Team](/images/1696951046237.jpeg)
+															<img src="/images/1696951046237.jpeg">
 
                                </div>
 		</div>
                         </div>
 	</div>
 	</div>
+
+<section class="bp-section is-paddingless" id="key-highlights">
+  <div class="bp-container">
+    <div class="row is-gapless has-text-centered"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Our People</p></div></div>
+  </div>
+</section>
