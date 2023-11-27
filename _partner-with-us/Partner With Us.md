@@ -24,7 +24,7 @@ description: ""
         <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/f09f28d1-14c2-45a5-9477-527222cae18d/Air-Combat-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18\_1QK41482L8HD90QOSSLBSG34O4-f09f28d1-14c2-45a5-9477-527222cae18d-mBdlcG7" alt="Air Combat" class="card-img-top">
       </a>
 			<br>
-      <div class="header">
+      <div style="text-align:center" class="header">
         <b>Air Combat Command</b>
       </div>
     </div>
@@ -35,7 +35,7 @@ description: ""
         <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/5d5dc237-1764-4c87-9605-e93ee4cfb2ff/Air-Defence-and-Operations-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-5d5dc237-1764-4c87-9605-e93ee4cfb2ff-mBdlxGg" alt="Air Defence and Operations" class="card-img-top">
       </a>
 			<br>
-      <div class="header">
+      <div style="text-align:center" class="header">
         <b>Air Defence and Operations</b>
       </div>
     </div>
@@ -46,7 +46,7 @@ description: ""
         <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/bc8f8cb8-910e-4844-bbc1-2250b042b1cf/Air-Power-Generation-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-bc8f8cb8-910e-4844-bbc1-2250b042b1cf-mBdpYEJ" alt="Air Power Generation Command" class="card-img-top">
       </a>
       <br>
-      <div class="header">
+      <div style="text-align:center" class="header">
         <b>Air Power Generation Command</b>
       </div>
     </div>
@@ -59,7 +59,7 @@ description: ""
         <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/a0b0322d-7123-414f-b3f0-5419f5374b10/Participation-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-a0b0322d-7123-414f-b3f0-5419f5374b10-mBdrffN" alt="Participation Command" class="card-img-top">
       </a>
 			<br>
-      <div class="header">
+      <div style="text-align:center" class="header">
          <b>Participation Command</b>
        </div>
       </div>
@@ -70,7 +70,7 @@ description: ""
           <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/1c6bad85-9f3f-4296-b35b-338b545bc6f2/UAV-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-1c6bad85-9f3f-4296-b35b-338b545bc6f2-mBdvCZO" alt="Unmanned Aerial Vehicle Command" class="card-img-top">
         </a>
 				<br>
-        <div class="header">
+        <div style="text-align:center" class="header">
          <b>Unmanned Aerial Vehicle Command</b>
        </div>
       </div>
@@ -81,7 +81,7 @@ description: ""
           <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/f7eb8601-f1dd-4b4a-8ed8-86362076852e/Air-Force-Training-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-f7eb8601-f1dd-4b4a-8ed8-86362076852e-mJ4nEWv" alt="Air Force Training Command" class="card-img-top">
         </a>
 				<br>
-        <div class="header">
+        <div style="text-align:center" class="header">
          <b>Air Force Training Command</b>
        </div>
       </div>
@@ -93,4 +93,3 @@ description: ""
   <p>
     <a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a>
   </p>
-
