@@ -20,7 +20,6 @@ description: ""
 <br>
 </div>
 <br>
-<div class="row">
 <div class="col">
 <img alt="data science" src="/images/Expertise%20/Untitled_presentation__3_.png"><br>
 <br>
@@ -33,4 +32,4 @@ description: ""
 <img alt="data science" src="/images/Expertise%20/Untitled_presentation__5_.png"><br>
 <br>
 </div>
-</div></div>
+</div>
