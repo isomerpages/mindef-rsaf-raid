@@ -7,6 +7,6 @@ links:
   - title: Partner With Us
     collection: partner-with-us
   - title: What's New
-    collection: what-is-new
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
