@@ -5,9 +5,10 @@ variant: markdown
 description: ""
 ---
 <h5>Explore our Open Challenges section, where we spotlight ongoing issues and improvement opportunities within our company. We warmly invite innovative thinkers and potential partners to join us in crafting solutions and driving progress together.</h5>
+<br>
 <hr>
-<div class="horizontal-scroll">
-  <table>
+<div class="table-responsive-lg">
+  <table class="table table-bordered">
      <tbody>
         <tr>
             <td>
