@@ -34,8 +34,7 @@ description: ""
 		<div class="media-card-plain bg-media-color-3 padding--lg">
                             <div class="center">
                                 <h3 class="has-text-white">Founding Stories</h3>
-															![RAiD Team](/images/1696951046237.jpeg)
-                               </div>
+															</div>
 		</div>
                         </div>
 	</div>
