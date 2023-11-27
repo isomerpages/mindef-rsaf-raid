@@ -52,13 +52,13 @@ description: ""
 
 <div class="card mb-3 margin--lg">
   <div class="row g-0">
-    <div class="col-md-4 margin--right--xs">
+    <div class="col-md-4 margin--right--sm">
       <img alt="Head RAiD" class="img-fluid rounded-start" src="/images/1685636474423.jpeg">
     </div>
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">Head RAiD</h5>
-        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex </p>
       </div>
     </div>
   </div>
