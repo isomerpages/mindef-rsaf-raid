@@ -1,6 +1,0 @@
-collections:
-  what-is-new:
-    output: true
-    order:
-      - Upcoming Events.md
-      - In The News.md
