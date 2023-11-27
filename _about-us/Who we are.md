@@ -4,7 +4,7 @@ permalink: /about-us/who-we-are/
 variant: markdown
 description: ""
 ---
-<div class="container">
+<div class="container justify-content-center">
 	<div class="row is-multiline">
 	<div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
 		<div class="media-card-plain bg-media-color-3 padding--lg">
