@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 <h2>Explore our Open Challenges</h2>
-<p> We put a on spotlight ongoing issues and improvement opportunities within our company, and warmly invite potential partners to join us in crafting solutions and driving progress together.</p>
+<p> We put a spotlight on ongoing issues and improvement opportunities within our company, and warmly invite potential partners to join us in crafting solutions and driving progress together.</p>
 <div>
   <table>
      <tbody style="border:solid #D3D3D3">
