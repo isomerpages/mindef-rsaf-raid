@@ -76,6 +76,9 @@ description: ""
       <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-force-training-command" class="card-link">
       <img src="https://www.mindef.gov.sg/web/wcm/connect/rsaf/f7eb8601-f1dd-4b4a-8ed8-86362076852e/Air-Force-Training-Command.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_1QK41482L8HD90QOSSLBSG34O4-f7eb8601-f1dd-4b4a-8ed8-86362076852e-mJ4nEWv" alt="Air Force Training Command" class="card-img-top">
       </a>
+			<br>
+			<div class="header">
+				<b> Air Combat Command </b> </div>
       <div class="card-body">
         <h3 class="card-title">Air Force Training Command</h3>
       </div>
