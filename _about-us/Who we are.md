@@ -42,7 +42,7 @@ description: ""
 	</div>
 	</div>
 
-<div class="container padding--sm">
+<div class="container margin--top--lg">
 <section class="bp-section is-paddingless" id="key-highlights">
   <div class="bp-container">
     <div class="row has-text-centered"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Our People</p></div></div>
