@@ -50,23 +50,37 @@ description: ""
 </section>
 	</div>
 
+<div class="card mb-3 margin--top--lg">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img alt="..." class="img-fluid rounded-start" src="/images/1685636474423.jpeg">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Head RAiD</h5>
+        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="card text-center">
-	<div class="card-header">
-		<ul class="nav nav-tabs card-header-tabs">
-			<li class="nav-item">
-				<a href="#" aria-current="true" class="nav-link active">Active</a>
-			</li>
-			<li class="nav-item">
-				<a href="#" class="nav-link">Link</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link disabled">Disabled</a>
-			</li>
-		</ul>
-	</div>
-	<div class="card-body">
-		<h5 class="card-title">Special title treatment</h5>
-		<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-		<a class="btn btn-primary" href="#">Go somewhere</a>
-	</div>
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs">
+      <li class="nav-item">
+        <a href="#" aria-current="true" class="nav-link active">Active</a>
+      </li>
+      <li class="nav-item">
+        <a href="#" class="nav-link">Link</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled">Disabled</a>
+      </li>
+    </ul>
+  </div>
+  <div class="card-body">
+    <h5 class="card-title">Special title treatment</h5>
+    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+    <a class="btn btn-primary" href="#">Go somewhere</a>
+  </div>
 </div>
