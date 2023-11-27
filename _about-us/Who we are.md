@@ -61,7 +61,7 @@ description: ""
 <div class="container margin--top--lg">
 <section class="bp-section is-paddingless" id="key-highlights">
   <div class="bp-container">
-    <div class="row"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs"></p><center>OUR PEOPLE</center><p></p></div></div>
+    <div class="row"><div class="key-highlights-text"><h3 class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs"><center class="has-text-white">OUR PEOPLE</center></h3></div></div>
   </div>
 </section>
 	</div>
