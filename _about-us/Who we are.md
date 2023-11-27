@@ -50,10 +50,10 @@ description: ""
 </section>
 	</div>
 
-<div class="card mb-3 margin--top--lg">
+<div class="card mb-3 margin--lg">
   <div class="row g-0">
-    <div class="col-md-4">
-      <img alt="..." class="img-fluid rounded-start" src="/images/1685636474423.jpeg">
+    <div class="col-md-4 margin--right--xs">
+      <img alt="Head RAiD" class="img-fluid rounded-start" src="/images/1685636474423.jpeg">
     </div>
     <div class="col-md-8">
       <div class="card-body">
