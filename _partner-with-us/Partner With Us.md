@@ -71,5 +71,5 @@ description: ""
 </div>
 <h2>Current Partners</h2>
 <p>Join our growing network of partners</p>
-	 <img alt="Partners" src="/images/Placeholder%20test%20images%20/fake%20partners.png">
+<img alt="Partners" src="/images/Placeholder%20test%20images%20/fake%20partners.png">
 <p><a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a></p>
