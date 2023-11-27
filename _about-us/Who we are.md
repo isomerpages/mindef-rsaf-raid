@@ -41,12 +41,11 @@ description: ""
                         </div>
 	</div>
 	</div>
-<div>
+	<br>
+<div class="container">
 <section class="bp-section is-paddingless" id="key-highlights">
   <div class="bp-container">
     <div class="row has-text-centered"><div class="key-highlights-text"><p class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase padding--top--xs">Our People</p></div></div>
   </div>
 </section>
 	</div>
-
-<section class="section py-20"><div class="container"><h2 class="mb-8 mb-16-desktop title is-1">Let's start something completely new together</h2><div class="columns is-vcentered"><div class="column is-8 mb-3 mb-0-desktop"><p class="mb-1 is-size-5 has-text-grey-dark">Drop us a line and we will get in touch.</p><p class="is-size-5 has-text-grey-dark">We'll see if we are a match and how we can help each other</p></div><div class="column is-3"><a href="#" class="button is-primary is-fullwidth">Sign up</a></div></div></div></section>
