@@ -64,5 +64,4 @@ description: ""
   </div>
 </div>
 
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQw5qG_oAU9E4YtI1bBI0dhwynFCPhphrlPJVIUCCvDDN-zRexvOZdrOXfXVjM17Q2ApZd5_nfSbPcT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQw5qG_oAU9E4YtI1bBI0dhwynFCPhphrlPJVIUCCvDDN-zRexvOZdrOXfXVjM17Q2ApZd5_nfSbPcT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
