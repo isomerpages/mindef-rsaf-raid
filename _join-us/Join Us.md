@@ -8,6 +8,11 @@ description: ""
   .custom-card {
     text-decoration: none;
     color: inherit;
+	  border: 2px solid #081f3c; 
+	  border-radius: 10px; 
+	  overflow: hidden; 
+	  transition: box-shadow 0.3s; 
+	  display: block;
   }
 
   .custom-card img {
