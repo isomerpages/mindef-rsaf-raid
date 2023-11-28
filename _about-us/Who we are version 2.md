@@ -5,9 +5,6 @@ variant: markdown
 description: ""
 ---
 <style>
-	h2 {
-	color: #081f3c;
-	}
   .responsive-google-slides {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 Ratio */
@@ -22,9 +19,6 @@ description: ""
     width: 100% !important;
     height: 100% !important;
   }
-	.custom-bg-color { 
-	background-color: #081f3c; 
-	}
 </style>
 
 <h2>History</h2>
