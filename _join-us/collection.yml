@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Join Us.md
-      - Roles/Software Engineer Version 2.md
       - Roles/.keep
       - Roles/Software Engineer.md
+      - Roles/Software Engineer Version 2.md
