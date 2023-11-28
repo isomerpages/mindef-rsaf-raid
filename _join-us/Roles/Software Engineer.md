@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Roles
 ---
 <style>
-	.custom-container {
+  .custom-container {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -20,7 +20,7 @@ third_nav_title: Roles
     overflow: hidden;
     transition: box-shadow 0.3s;
     width: 100%;
-    max-width: 300px; /* Adjust the maximum width as needed */
+    max-width: 300px;
   }
 
   .custom-card:hover {
@@ -31,12 +31,13 @@ third_nav_title: Roles
     width: 100%;
     height: auto;
   }
-	
-	.side-container {
-	display: flex;
-	flex-direction: column;
-	gap: 20px; 
-	}
+
+  .side-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1;
+  }
 
   .heading-container,
   .interview-container,
@@ -46,10 +47,11 @@ third_nav_title: Roles
     padding: 20px;
     width: 100%;
   }
-	.custom-button {
+
+  .custom-button {
     background-color: #081f3c;
     color: #fff;
-    font-weight: 600; /* Semi-bold */
+    font-weight: 600; 
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -58,32 +60,31 @@ third_nav_title: Roles
   }
 
   .custom-button:hover {
-    background-color: #050c16; /* Darker shade on hover */
+    background-color: #050c16; 
   }
-	</style>
+</style>
 
 <div class="container mt-4 custom-container">
 
-  <div class="col-md-6 side-container">
-    <div class="heading-container">
-      <h2>Software Engineering</h2>
-    </div>
-    <div class="interview-container">
-      <h3>Interview Questions</h3>
-			<h4>1) What do you think makes a good software engineer?</h4>
-			<h4>2) What do you think makes a good software engineer?</h4>
-
-      <button class="custom-button">Apply Now</button>
-    </div>
-  </div>
-
-	<div class="custom-card">
+  <div class="custom-card col-md-6">
     <img alt="Software Engineers Image" src="/images/d4830bf7_f100_4b6b_bc44_89e32c43b6fc.jpeg">
     <div class="card-body">
       <h5 class="card-title">Subtitle</h5>
     </div>
   </div>
-	
+
+  <div class="side-container col-md-6">
+    <div class="heading-container">
+      <h2>Software Engineering</h2>
+    </div>
+    <div class="interview-container">
+      <h3>Interview Questions</h3>
+      <h4>1) What do you think makes a good software engineer?</h4>
+      <h4>2) What do you think makes a good software engineer?</h4>
+      <button class="custom-button">Apply Now</button>
+    </div>
+  </div>
+
   <div class="col-md-12">
     <div class="faq-container">
       <h3>Frequently Asked Questions</h3>
