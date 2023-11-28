@@ -19,6 +19,10 @@ description: ""
     width: 100% !important;
     height: 100% !important;
   }
+		.custom-image { 
+	max-width: 100%; 
+	height: auto; 
+	}
 </style>
 <div class="container justify-content-center">
 	<div class="row is-multiline">
@@ -37,6 +41,17 @@ description: ""
 		</div>
                         </div>
 	</div>
+	
+	<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-8"> 
+			<div class="scroll-container"> 
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam...</p> 
+			</div> 
+		</div>
+		<div class="col-md-4"> <div class="title-container"> <h2>Title</h2> </div> <div class="image-container"> <img class="custom-image" alt="Founding Fathers" src="/images/1696951046237.jpeg"> </div> </div> </div> </div>
+	
+	
 <div class="row is-multiline">
 	
 	<div class="col">
