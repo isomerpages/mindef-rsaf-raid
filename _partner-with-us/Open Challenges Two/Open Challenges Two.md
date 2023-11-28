@@ -12,7 +12,7 @@ third_nav_title: Open Challenges Two
   <div class="col">
     <a class="is-media-card" href="">
       <div class="media-card-plain bg-media-color-4 padding--lg">
-        <h4 class="has-text-white padding-top-bottom">I'm having this problem, do you think you can solve it? 
+        <h4 class="has-text-white padding-top-bottom">I have this problem, do you think you can solve it? 
         </h4>
       </div>
     </a>
