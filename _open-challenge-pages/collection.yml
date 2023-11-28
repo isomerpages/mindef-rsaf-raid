@@ -1,4 +1,5 @@
 collections:
   open-challenge-pages:
     output: true
-    order: []
+    order:
+      - Problem 1.md
