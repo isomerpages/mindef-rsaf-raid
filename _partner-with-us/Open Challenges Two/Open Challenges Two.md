@@ -23,7 +23,7 @@ third_nav_title: Open Challenges Two
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-challenges/problem-two"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h4 class="has-text-white">
             <b>Problem Title Goes here</b>
