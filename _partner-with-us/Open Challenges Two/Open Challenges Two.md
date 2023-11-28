@@ -10,7 +10,7 @@ third_nav_title: Open Challenges Two
 </p>
 <div class="row">
   <div class="col">
-  <a class="is-media-card" href=""><div class="media-card-plain bg-media-color-4 padding--lg">
+  <a class="is-media-card" href=""><div class="media-card-plain bg-media-color-1 padding--lg">
                             <div>
                                 <small class="has-text-white padding--bottom">CASE STUDIES</small>
                                 <h4 style="line-height: 2.25rem" class="has-text-white padding--bottom--lg"><b>Antwerp – Scheldt Quays rejuvenation</b></h4>
