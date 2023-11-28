@@ -1,5 +1,5 @@
 collections:
-  join-us:
+  careers:
     output: true
     order:
       - Join Us.md
