@@ -23,7 +23,7 @@ description: ""
 <div class="container justify-content-center">
   <div class="row is-multiline">
     <div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
-      <div class="media-card-plain bg-media-color-3 padding--sm text-center">
+      <div style="bg-media-color-3" class="media-card-plain padding--sm text-center">
         <h3 class="has-text-white">History</h3>
       </div>
     </div>
