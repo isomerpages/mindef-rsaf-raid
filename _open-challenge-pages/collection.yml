@@ -2,4 +2,5 @@ collections:
   open-challenge-pages:
     output: true
     order:
+      - Problem 2.md
       - Problem 1.md
