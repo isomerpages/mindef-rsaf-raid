@@ -66,6 +66,16 @@ description: ""
   </div>
 </section>
 	</div>
+	
+	<div class="container margin--top--lg">
+  <section class="bp-section is-paddingless" id="key-highlights">
+    <div class="bp-container">
+      <h3 class="has-text-weight-semibold has-text-white key-highlight-title is-uppercase has-text-centered">
+        OUR PEOPLE
+      </h3>
+    </div>
+  </section>
+</div>
 
 <div class="card mb-3 margin--lg">
   <div class="row g-0">
