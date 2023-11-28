@@ -30,7 +30,7 @@ description: ""
     </div>
 
     <div class="col">
-      <div class="media-card-plain bg-media-color-3 padding--lg">
+      <div class="media-card-plain bg-media-color-1 padding--lg">
         <p class="has-text-white">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -43,7 +43,7 @@ description: ""
 
   <div class="row is-multiline">
     <div class="col">
-      <div class="media-card-plain bg-media-color-3 padding--sm">
+      <div class="media-card-plain bg-media-color-1 padding--sm">
         <p class="has-text-white">
           <img alt="Placeholder Image" src="/images/Placeholder%20test%20images%20/1696951046237.jpeg">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
