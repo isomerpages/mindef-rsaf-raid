@@ -2,6 +2,7 @@ collections:
   open-challenges:
     output: true
     order:
+      - Example Title.md
       - Problem 1.md
       - Problem 2.md
       - Problem 3.md
