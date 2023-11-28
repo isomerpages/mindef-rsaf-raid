@@ -55,10 +55,11 @@ third_nav_title: Roles
     background-color: #050c16; /* Darker shade on hover */
   }
 	</style>
-	<div class="container mt-4 custom-container">
+
+<div class="container mt-4 custom-container">
 
   <div class="custom-card">
-    <img alt="Card Image" src="path-to-image.jpg">
+    <img alt="Software Engineers Image" src="/images/d4830bf7_f100_4b6b_bc44_89e32c43b6fc.jpeg">
     <div class="card-body">
       <h5 class="card-title">Subtitle</h5>
     </div>
