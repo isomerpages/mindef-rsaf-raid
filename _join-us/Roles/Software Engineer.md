@@ -31,6 +31,12 @@ third_nav_title: Roles
     width: 100%;
     height: auto;
   }
+	
+	.side-container {
+	display: flex;
+	flex-direction: column;
+	gap: 20px; 
+	}
 
   .heading-container,
   .interview-container,
@@ -65,7 +71,7 @@ third_nav_title: Roles
     </div>
   </div>
 
-  <div class="col-md-6">
+  <div class="col-md-6 side-container">
     <div class="heading-container">
       <h2>Software Engineering</h2>
     </div>
