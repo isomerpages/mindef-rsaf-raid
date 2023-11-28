@@ -2,6 +2,6 @@ collections:
   partner-with-us:
     output: true
     order:
-      - Open Challenges Version Two.md
       - Partner With Us.md
       - Open Challenges One.md
+      - Open Challenges Version Two.md
