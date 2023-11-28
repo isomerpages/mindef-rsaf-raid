@@ -24,11 +24,7 @@ description: ""
 <div class="container justify-content-center">
   <div class="row is-multiline">
 
-    <div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
-      <div class="media-card-plain bg-media-color-3 padding--sm text-center">
-        <h3 class="has-text-white">History</h3>
-      </div>
-    </div>
+     <div> <div> <h3>History  
 
     <div class="col">
       <div class="media-card-plain bg-media-color-1 padding--lg">
@@ -38,7 +34,7 @@ description: ""
       </div>
     </div>
 
-  </div>
+  </h3></div>
 
   <div class="row is-multiline">
 
@@ -73,4 +69,4 @@ description: ""
 	
 <div class="responsive-google-slides">
 <iframe allowfullscreen="true" height="647" width="1100" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQw5qG_oAU9E4YtI1bBI0dhwynFCPhphrlPJVIUCCvDDN-zRexvOZdrOXfXVjM17Q2ApZd5_nfSbPcT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+</div></div></div>
