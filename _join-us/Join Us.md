@@ -13,6 +13,7 @@ description: ""
 	  overflow: hidden; 
 	  transition: box-shadow 0.3s; 
 	  display: block;
+	  margin: 20px;
   }
 
   .custom-card img {
