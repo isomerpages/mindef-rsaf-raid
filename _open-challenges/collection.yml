@@ -2,6 +2,7 @@ collections:
   open-challenges:
     output: true
     order:
+      - Problem 4.md
       - Problem 1.md
       - Problem 2.md
       - Problem 3.md
