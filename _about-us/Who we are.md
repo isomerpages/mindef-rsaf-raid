@@ -27,7 +27,7 @@ description: ""
   <div class="row is-multiline">
     <div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
       <div class="media-card-plain custom-bg-color padding--sm">
-        <h3 class="has-text-white has-text-centered">History</h3>
+        <h3 class="has-text-white has-text-centered has-text-weight-semibold">History</h3>
       </div>
     </div>
 
@@ -58,7 +58,7 @@ description: ""
 
     <div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
       <div class="media-card-plain custom-bg-color padding--sm">
-        <h3 class="has-text-white has-text-centered">Founding Stories</h3>
+        <h3 class="has-text-white has-text-centered has-text-weight-semibold">Founding Stories</h3>
       </div>
     </div>
   </div>
