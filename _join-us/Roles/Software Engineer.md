@@ -57,6 +57,7 @@ third_nav_title: Roles
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
+	  margin-left: auto;
   }
 
   .custom-button:hover {
@@ -69,13 +70,13 @@ third_nav_title: Roles
   <div class="custom-card col-md-6">
     <img alt="Software Engineers Image" src="/images/d4830bf7_f100_4b6b_bc44_89e32c43b6fc.jpeg">
     <div class="card-body">
-      <h5 class="card-title">Subtitle</h5>
+      <h5 class="card-title">Name</h5>
     </div>
   </div>
 
   <div class="side-container col-md-6">
     <div class="heading-container">
-      <h2>Software Engineering</h2>
+      <h3>Software Engineer</h3>
     </div>
     <div class="interview-container">
       <h3>Interview Questions</h3>
@@ -90,8 +91,11 @@ third_nav_title: Roles
       <h3>Frequently Asked Questions</h3>
       <ul>
         <li>Question 1?</li>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae egestas augue. Aliquam ac libero enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer molestie vestibulum eros efficitur blandit. Aliquam quis commodo odio, id tempus justo. Nam nisl turpis, tincidunt quis lorem eget, fringilla semper orci. Praesent at tincidunt turpis. Curabitur sit amet orci vel arcu convallis blandit id non diam. Phasellus dapibus dictum ipsum tincidunt vestibulum. Etiam sit amet scelerisque sapien.</p>
         <li>Question 2?</li>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae egestas augue. Aliquam ac libero enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer molestie vestibulum eros efficitur blandit. Aliquam quis commodo odio, id tempus justo. Nam nisl turpis, tincidunt quis lorem eget, fringilla semper orci. Praesent at tincidunt turpis. Curabitur sit amet orci vel arcu convallis blandit id non diam. Phasellus dapibus dictum ipsum tincidunt vestibulum. Etiam sit amet scelerisque sapien.</p>
         <li>Question 3?</li>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae egestas augue. Aliquam ac libero enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer molestie vestibulum eros efficitur blandit. Aliquam quis commodo odio, id tempus justo. Nam nisl turpis, tincidunt quis lorem eget, fringilla semper orci. Praesent at tincidunt turpis. Curabitur sit amet orci vel arcu convallis blandit id non diam. Phasellus dapibus dictum ipsum tincidunt vestibulum. Etiam sit amet scelerisque sapien.</p>
       </ul>
     </div>
   </div>
