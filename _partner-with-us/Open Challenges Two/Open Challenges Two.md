@@ -26,12 +26,6 @@ third_nav_title: Open Challenges Two
           </div>
         </a>
       </div>
-    </div>
-  </div>
-</section>
-<section class="bp-section">
-  <div class="bp-container">
-    <div class="row padding--bottom">
       <div class="col">
         <a class="is-media-card" href="/events/preparing-your-startup/"><div class="media-card-plain bg-media-color-3 padding--lg">
             <div>
@@ -47,12 +41,6 @@ third_nav_title: Open Challenges Two
           </div>
         </a>
       </div>
-    </div>
-  </div>
-</section>
-<section class="bp-section">
-  <div class="bp-container">
-    <div class="row padding--bottom">
       <div class="col">
         <a class="is-media-card" href="/events/preparing-your-startup/"><div class="media-card-plain bg-media-color-3 padding--lg">
             <div>
