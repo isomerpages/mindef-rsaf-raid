@@ -57,7 +57,7 @@ third_nav_title: Roles
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
-	  margin-left: auto;
+	  margin-right: auto;
   }
 
   .custom-button:hover {
