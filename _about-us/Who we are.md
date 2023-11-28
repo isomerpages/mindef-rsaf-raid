@@ -20,11 +20,10 @@ description: ""
     height: 100% !important;
   }
 </style>
-
 <div class="container justify-content-center">
   <div class="row is-multiline">
 
-     <div> <div> <h3>History  
+    <div> <div> <h3>History  
 
     <div class="col">
       <div class="media-card-plain bg-media-color-1 padding--lg">
@@ -50,12 +49,12 @@ description: ""
     <div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
       <div class="media-card-plain bg-media-color-3 padding--sm text-center">
         <h3 class="has-text-white">Founding Stories</h3>
-        <img alt="Placeholder Image" src="/images/Placeholder%20test%20images%20/1696951046237.jpeg">
       </div>
     </div>
 
   </div>
 </div>
+
 
 <div class="container margin--top--lg">
   <section class="bp-section is-paddingless" id="key-highlights">
