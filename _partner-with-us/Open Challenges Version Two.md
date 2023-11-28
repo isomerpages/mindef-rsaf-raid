@@ -79,7 +79,7 @@ description: ""
     <a class="card-link" href="/open-challenges/problem-six"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
-            <b>Problem Title Goes here</b>
+            <b>Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</b>
           </h5>
         </div>
         <div class="is-fluid padding--top--md description">
