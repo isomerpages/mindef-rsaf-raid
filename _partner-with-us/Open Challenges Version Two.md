@@ -35,7 +35,7 @@ description: ""
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-challenges/problem-three"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -50,7 +50,7 @@ description: ""
 </div>
 <div class="row">
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-challenges/problem-four"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -63,7 +63,7 @@ description: ""
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-challenges/problem-five"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -76,7 +76,7 @@ description: ""
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-challenges/problem-six"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
