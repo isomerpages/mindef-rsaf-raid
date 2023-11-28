@@ -2,5 +2,6 @@ collections:
   join-us:
     output: true
     order:
+      - Roles/Software Engineer.md
       - Roles/.keep
       - Join Us.md
