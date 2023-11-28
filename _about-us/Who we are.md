@@ -19,13 +19,15 @@ description: ""
     width: 100% !important;
     height: 100% !important;
   }
-	.custom-bg-color { background-color: #081f3c; }
+	.custom-bg-color { 
+	background-color: #081f3c; 
+	}
 </style>
 <div class="container justify-content-center">
   <div class="row is-multiline">
     <div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
-      <div class="media-card-plain custom-bg-color padding--sm text-center">
-        <h3 class="has-text-white">History</h3>
+      <div class="media-card-plain custom-bg-color padding--sm">
+        <h3 class="has-text-white has-text-centered">History</h3>
       </div>
     </div>
 
@@ -55,8 +57,8 @@ description: ""
     </div>
 
     <div class="col is-one-quarter-widescreen is-one-quarter-desktop is-one-quarter-tablet resource-card-element">
-      <div class="media-card-plain custom-bg-color padding--sm text-center">
-        <h3 class="has-text-white">Founding Stories</h3>
+      <div class="media-card-plain custom-bg-color padding--sm">
+        <h3 class="has-text-white has-text-centered">Founding Stories</h3>
       </div>
     </div>
   </div>
