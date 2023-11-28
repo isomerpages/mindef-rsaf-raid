@@ -10,7 +10,44 @@ third_nav_title: Open Challenges Two
 </p>
 <div class="row">
   <div class="col">
- 
+    <a class="is-media-card" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-5 padding--lg">
+        <div>
+          <h4 class="has-text-white">
+            <b>Problem Title Goes here</b>
+          </h4>
+        </div>
+        <div class="is-fluid padding--top--md description">
+          <small class="has-text-white">28 OCT 2023</small>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="col">
+    <a class="is-media-card" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-5 padding--lg">
+        <div>
+          <h4 class="has-text-white">
+            <b>Problem Title Goes here</b>
+          </h4>
+        </div>
+        <div class="is-fluid padding--top--md description">
+          <small class="has-text-white">28 OCT 2023</small>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="col">
+    <a class="is-media-card" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-5 padding--lg">
+        <div>
+          <h4 class="has-text-white">
+            <b>Problem Title Goes here</b>
+          </h4>
+        </div>
+        <div class="is-fluid padding--top--md description">
+          <small class="has-text-white">28 OCT 2023</small>
+        </div>
+      </div>
+    </a>
   </div>
 </div>
+
 <p><a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a></p>
