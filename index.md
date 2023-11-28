@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero_Image_001.jpeg
-      variant: image
+      background: /images/Placeholder test images /Homepage1.jpg
+      variant: center
+      title: The Digital Force of Our Air Force
   - infopic:
       title: To bring smarts and smiles to our Air Force and our Airmen
       subtitle: MISSION
