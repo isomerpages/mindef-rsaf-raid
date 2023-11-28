@@ -76,12 +76,12 @@ third_nav_title: Roles
 
   <div class="side-container col-md-6">
     <div class="heading-container">
-      <h3 class="has-text-centered">Software Engineer</h3>
+      <h2 class="has-text-centered">Software Engineer</h2>
     </div>
     <div class="interview-container">
       <h3>Interview Questions</h3>
-      <h4>1) What do you think makes a good software engineer?</h4>
-      <h4>2) What do you think makes a good software engineer?</h4>
+      <h5>1) What do you think makes a good software engineer?</h5>
+      <h5>2) What do you think makes a good software engineer?</h5>
       <button class="custom-button">Apply Now</button>
     </div>
   </div>
