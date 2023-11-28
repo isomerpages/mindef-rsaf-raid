@@ -1,5 +1,5 @@
 collections:
-  open-challenge-pages:
+  open-challenges:
     output: true
     order:
       - Problem 1.md
