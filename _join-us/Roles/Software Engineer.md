@@ -40,6 +40,20 @@ third_nav_title: Roles
     padding: 20px;
     width: 100%;
   }
+	.custom-button {
+    background-color: #081f3c;
+    color: #fff;
+    font-weight: 600; /* Semi-bold */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .custom-button:hover {
+    background-color: #050c16; /* Darker shade on hover */
+  }
 	</style>
 	<div class="container mt-4 custom-container">
 
@@ -52,11 +66,14 @@ third_nav_title: Roles
 
   <div class="col-md-6">
     <div class="heading-container">
-      <h2>Heading</h2>
+      <h2>Software Engineering</h2>
     </div>
     <div class="interview-container">
       <h3>Interview Questions</h3>
-      <button class="btn btn-primary">Apply Now</button>
+			<h4>1) What do you think makes a good software engineer?</h4>
+			<h4>2) What do you think makes a good software engineer?</h4>
+
+      <button class="custom-button">Apply Now</button>
     </div>
   </div>
 
