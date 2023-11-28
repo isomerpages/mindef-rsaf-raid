@@ -4,8 +4,6 @@ permalink: /partner-with-us/
 variant: markdown
 description: ""
 ---
-<style>.no-underline{text-decoration:none}
-</style>
 <h1>Republic of Singapore Air Force</h1>
 <img alt="RSAF Feature Image" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2021/05/24/yq-rsaf-24052025.jpg?VersionId=Tls5k2P1aPwDf.V.RXmzxGL5oTkQeWas">
 <p>
@@ -93,5 +91,5 @@ description: ""
   <p>Join our growing network of partners</p>
   <img alt="Partners" src="/images/Placeholder%20test%20images%20/fake%20partners.png">
   <p>
-    <a class="no-underline bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a>
+    <a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a>
   </p>
