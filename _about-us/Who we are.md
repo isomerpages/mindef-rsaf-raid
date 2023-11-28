@@ -23,6 +23,12 @@ description: ""
 	max-width: 100%; 
 	height: auto; 
 	}
+	.scroll-container { 
+	max-height: 300px;
+	overflow-y: auto; 
+	border: 1px solid #ccc; 
+	padding: 10px; 
+	}
 </style>
 <div class="container justify-content-center">
 	<div class="row is-multiline">
