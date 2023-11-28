@@ -68,15 +68,15 @@ third_nav_title: Roles
 <div class="container mt-4 custom-container">
 
   <div class="custom-card col-md-6">
-    <img alt="Software Engineers Image" src="/images/d4830bf7_f100_4b6b_bc44_89e32c43b6fc.jpeg">
+    <img alt="Software Engineer's Image" src="https://i.pinimg.com/originals/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg">
     <div class="card-body">
-      <h5 class="card-title">Name</h5>
+      <h5 class="card-title has-text-centered">Aaron</h5>
     </div>
   </div>
 
   <div class="side-container col-md-6">
     <div class="heading-container">
-      <h3>Software Engineer</h3>
+      <h3 class="has-text-centered">Software Engineer</h3>
     </div>
     <div class="interview-container">
       <h3>Interview Questions</h3>
