@@ -12,9 +12,9 @@ third_nav_title: Open Challenges Two
   <div class="col">
     <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
-          <h4 class="has-text-white">
+          <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
-          </h4>
+          </h5>
         </div>
         <div class="is-fluid padding--top--md description">
           <small class="has-text-white">28 OCT 2023</small>
@@ -25,9 +25,9 @@ third_nav_title: Open Challenges Two
   <div class="col">
     <a class="card-link" href="/open-challenges/problem-two"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
-          <h4 class="has-text-white">
+          <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
-          </h4>
+          </h5>
         </div>
         <div class="is-fluid padding--top--md description">
           <small class="has-text-white">28 OCT 2023</small>
@@ -38,9 +38,9 @@ third_nav_title: Open Challenges Two
   <div class="col">
     <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
-          <h4 class="has-text-white">
+          <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
-          </h4>
+          </h5>
         </div>
         <div class="is-fluid padding--top--md description">
           <small class="has-text-white">28 OCT 2023</small>
@@ -53,9 +53,9 @@ third_nav_title: Open Challenges Two
   <div class="col">
     <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
-          <h4 class="has-text-white">
+          <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
-          </h4>
+          </h5>
         </div>
         <div class="is-fluid padding--top--md description">
           <small class="has-text-white">28 OCT 2023</small>
@@ -66,9 +66,9 @@ third_nav_title: Open Challenges Two
   <div class="col">
     <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
-          <h4 class="has-text-white">
+          <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
-          </h4>
+          </h5>
         </div>
         <div class="is-fluid padding--top--md description">
           <small class="has-text-white">28 OCT 2023</small>
@@ -79,9 +79,9 @@ third_nav_title: Open Challenges Two
   <div class="col">
     <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
-          <h4 class="has-text-white">
+          <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
-          </h4>
+          </h5>
         </div>
         <div class="is-fluid padding--top--md description">
           <small class="has-text-white">28 OCT 2023</small>
