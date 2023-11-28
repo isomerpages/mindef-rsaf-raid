@@ -1,0 +1,4 @@
+collections:
+  open-challenge-pages:
+    output: true
+    order: []
