@@ -23,8 +23,4 @@ sections:
       id: infopic
       image: /images/1685636474423.jpeg
       alt: Image alt text
-  - infopic:
-      id: infopic
-      image: /images/mission2.jpeg
-      alt: Image alt text
 ---
