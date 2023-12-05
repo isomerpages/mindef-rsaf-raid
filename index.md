@@ -10,6 +10,7 @@ sections:
       background: /images/Placeholder test images /Homepage1.jpg
       variant: center
       title: The Digital Force of Our Air Force
+      subtitle: RSAF . Agile . innovation . Digital
   - infopic:
       title: To bring smarts and smiles to our Air Force and our Airmen
       subtitle: MISSION
