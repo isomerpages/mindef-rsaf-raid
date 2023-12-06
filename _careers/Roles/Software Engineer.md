@@ -15,16 +15,10 @@ third_nav_title: Roles
   }
 
   .custom-card {
-    border: 2px solid #081f3c;
-    border-radius: 10px;
     overflow: hidden;
     transition: box-shadow 0.3s;
     width: 100%;
     max-width: 300px;
-  }
-
-  .custom-card:hover {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   }
 
   .custom-card img {
@@ -42,8 +36,6 @@ third_nav_title: Roles
   .heading-container,
   .interview-container,
   .faq-container {
-    border: 2px solid #081f3c;
-    border-radius: 10px;
     padding: 20px;
     width: 100%;
   }
@@ -81,7 +73,7 @@ third_nav_title: Roles
     <div class="interview-container">
       <h3>Interview Questions</h3>
 			<p><span style="color:black">1) Why did you decide to become a software engineer?</span></p>
-      <p><span style="color:black">2) Why did you decide to become a software engineer?</span></p>
+      <p><span style="color:black">2) What is a regular day in RAiD like?</span></p>
       <button class="custom-button">Apply Now</button>
     </div>
   </div>
