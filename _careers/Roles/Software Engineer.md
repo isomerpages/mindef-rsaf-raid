@@ -60,9 +60,9 @@ third_nav_title: Roles
 <div class="container mt-4 custom-container">
 
   <div class="custom-card col-md-6">
-    <img alt="Software Engineer's Image" src="https://i.pinimg.com/originals/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg">
+    <img alt="Software Engineer's Image" src="/images/photo_6080323418298889126_y.jpg">
     <div class="card-body">
-      <h5 class="card-title has-text-centered">Aaron</h5>
+      <h5 class="card-title has-text-centered">Oliver</h5>
     </div>
   </div>
 
