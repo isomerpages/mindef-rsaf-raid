@@ -72,8 +72,8 @@ third_nav_title: Roles
     </div>
     <div class="interview-container">
       <h3>Interview Questions</h3>
-			<p><span style="color:black">1) Why did you decide to become a software engineer?</span></p>
-      <p><span style="color:black">2) What is a regular day in RAiD like?</span></p>
+			<p>1) Why did you decide to become a software engineer?</p>
+      <p>2) What is a regular day in RAiD like?</p>
       <button class="custom-button">Apply Now</button>
     </div>
   </div>
