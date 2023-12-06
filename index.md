@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Bold_Sale_Brand_Website_Homepage_Banner__2_.png
+      background: /images/Placeholder test images /Homepage1.jpg
       variant: center
       title: The Digital Force of Our Air Force
   - infopic:
