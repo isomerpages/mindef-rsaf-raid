@@ -9,6 +9,7 @@ sections:
   - hero:
       background: /images/Bold_Sale_Brand_Website_Homepage_Banner.png
       variant: center
+      title: The Digital Force of Our Air Force
   - infopic:
       title: To bring smarts and smiles to our Air Force and our Airmen
       subtitle: MISSION
