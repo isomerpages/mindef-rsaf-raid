@@ -11,15 +11,17 @@ sections:
       variant: center
       title: The Digital Force of Our Air Force
   - infopic:
-      title: To bring smarts and smiles to our Air Force and our Airmen
-      subtitle: MISSION
+      title: MISSION
       id: infopic
       image: /images/1685636480554.jpeg
       alt: Image alt text
+      description: To bring smarts and smiles to our Air Force and our Airmen
   - infopic:
-      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-      subtitle: VISION
+      title: VISION
       id: infopic
       image: /images/1685636474423.jpeg
       alt: Image alt text
+      description: To be the leading digital partner of the RSAF, enabling it to
+        achieve its full potential through innovative software and data
+        solutions.
 ---
