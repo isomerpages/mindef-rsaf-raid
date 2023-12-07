@@ -2,6 +2,7 @@ collections:
   join-us:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Join Us.md
       - Roles/.keep
       - Roles/Software Engineer.md
