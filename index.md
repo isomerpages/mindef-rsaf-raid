@@ -28,4 +28,7 @@ sections:
         achieve its full potential through innovative software and data
         solutions.
       subtitle: VISION
+  - resources:
+      title: Resources
+      id: resources
 ---
