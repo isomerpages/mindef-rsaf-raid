@@ -2,5 +2,5 @@ collections:
   partner-us-archive:
     output: true
     order:
-      - Partner Us.md
+      - Partner Us archive.md
       - Open Challenges Option B.md
