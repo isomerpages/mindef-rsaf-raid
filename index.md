@@ -29,6 +29,7 @@ sections:
         solutions.
       subtitle: VISION
   - resources:
-      title: Resources
+      title: What's New
       id: resources
+      subtitle: our latest updates
 ---
