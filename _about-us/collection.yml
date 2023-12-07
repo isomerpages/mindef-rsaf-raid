@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Our Story.md
-      - Who we are.md
+      - Who We Are.md
       - What we do.md
