@@ -1,5 +1,5 @@
 collections:
-  partner-us:
+  partner-us-archive:
     output: true
     order:
       - Partner Us.md
