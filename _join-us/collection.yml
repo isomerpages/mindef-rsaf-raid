@@ -2,8 +2,8 @@ collections:
   join-us:
     output: true
     order:
-      - Frequently Asked Questions.md
       - The RAiD Experience.md
       - Roles/.keep
       - Roles/Software Engineer.md
       - Roles/Software Engineer Version 2.md
+      - Frequently Asked Questions.md
