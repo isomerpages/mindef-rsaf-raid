@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - The RAiD Experience.md
-      - Roles/Data Analyst.md
-      - Roles/Cloud Engineer.md
       - Roles/.keep
+      - Roles/Cloud Engineer.md
       - Roles/Software Engineer.md
+      - Roles/Data Analyst.md
       - Frequently Asked Questions.md
