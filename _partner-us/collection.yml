@@ -2,6 +2,6 @@ collections:
   partner-us:
     output: true
     order:
-      - Partner With Us.md
+      - Partner Us.md
       - Open Challenges Option A.md
       - Open Challenges Option B.md
