@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: RSAF Agile Innovation & Digital
           description: ""
-          url: ""
+          url: /about-us/our-story/
   - infopic:
       title: To bring smarts and smiles to our Air Force and our Airmen
       id: infopic
