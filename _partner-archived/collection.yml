@@ -1,5 +1,5 @@
 collections:
-  partner-us-archive:
+  partner-archived:
     output: true
     order:
       - Open Challenges Option B.md
