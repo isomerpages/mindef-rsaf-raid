@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - The RAiD Experience.md
-      - Roles/Project Manager.md
       - Roles/.keep
       - Roles/Cloud Engineer.md
       - Roles/Software Engineer.md
+      - Roles/Project Manager.md
       - Roles/UX Designer.md
       - Roles/Cybersecurity Engineer.md
       - Roles/Data Scientist.md
