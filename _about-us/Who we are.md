@@ -4,31 +4,58 @@ permalink: /about-us/who-we-are/
 variant: markdown
 description: ""
 ---
-<style>
-  .responsive-google-slides {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 Ratio */
-    height: 0;
-    overflow: hidden;
-  }
-  .responsive-google-slides iframe {
-    border: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100% !important;
-    height: 100% !important;
-  }
-</style>
+<div style="display:flex;width:104vh;">
+<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px">
+		<img src="" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>Gek Peng </b></h4>  
+		<div>
+		<b>Head RAiD</b>
+			</div>
+	</div>  
+</div>
+<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px;position:relative">
+		<img src="/images/Placeholder%20test%20images%20/troy_tan.jpeg" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>Troy Tan</b></h4>  
+		<div>
+			<b>Head Swift</b>
+			</div>
+	</div>  
+</div>
+<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px">
+		<img src="/images/Meet%20the%20Team/christian-chow-swe-full.png" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>Ng Ying Tat</b></h4>  
+		<b>Head Cyber Defense Branch</b>
+	</div>  
+</div>
+</div>
 
-<h2>History</h2>
-<p class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lectus ac ligula lacinia sodales. Integer in ipsum nec tortor faucibus mollis. Integer non neque vel velit convallis malesuada vitae porttitor urna. Donec posuere sit amet arcu vitae tempus. Phasellus molestie nibh at turpis commodo, sit amet rhoncus ex pellentesque. Praesent vehicula libero dui, quis bibendum tortor sollicitudin ut. Fusce quis aliquet lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ac ullamcorper justo. </p>
-
-<h2>Founding Stories</h2>
-<img src="/images/Placeholder%20test%20images%20/1696951046237.jpeg" alt="Placeholder Image">
-<p class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lectus ac ligula lacinia sodales. Integer in ipsum nec tortor faucibus mollis. Integer non neque vel velit convallis malesuada vitae porttitor urna. Donec posuere sit amet arcu vitae tempus. Phasellus molestie nibh at turpis commodo, sit amet rhoncus ex pellentesque. Praesent vehicula libero dui, quis bibendum tortor sollicitudin ut. Fusce quis aliquet lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur ac ullamcorper justo. </p>
-	
-<h2>Our People</h2>
-<div class="responsive-google-slides">
-<iframe allowfullscreen="true" height="647" width="1100" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQw5qG_oAU9E4YtI1bBI0dhwynFCPhphrlPJVIUCCvDDN-zRexvOZdrOXfXVjM17Q2ApZd5_nfSbPcT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<div style="display:flex;width:104vh;">
+<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px">
+		<img src="/images/Meet%20the%20Team/jean-tan-swe-full.png" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>Tay Cheng Chuan</b></h4>  
+		<div>
+		<b>Head RSAF Data Office</b>
+			</div>
+	</div>  
+</div>
+<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px;position:relative">
+		<img src="/images/Meet%20the%20Team/foo-chi-fa-swe-full.png" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>Jerome Tay</b></h4>  
+		<div>
+			<b>Head Plans, Processes, Partnership and People Branch</b>
+			</div>
+	</div>  
+</div>
+<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px">
+		<img src="/images/Meet%20the%20Team/christian-chow-swe-full.png" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>George</b></h4>  
+		<b>Head Software Engineering Squadron</b>
+	</div>  
+</div>
 </div>
