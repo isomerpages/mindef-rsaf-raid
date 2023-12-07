@@ -2,6 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Who we are.md
       - Who we are version 2.md
       - What we do.md
