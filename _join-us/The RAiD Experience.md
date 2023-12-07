@@ -4,72 +4,13 @@ permalink: /the-raid-experience/
 variant: markdown
 description: ""
 ---
-<style>
-  .custom-card {
-    text-decoration: none;
-    color: inherit;
-	  border: 2px solid #081f3c; 
-	  border-radius: 10px; 
-	  overflow: hidden; 
-	  transition: box-shadow 0.3s; 
-	  display: block;
-	  margin: 20px;
-  }
+# The RAiD Experience
+Embark on a mission to propel the Republic of Singapore Air Force (RSAF) into the digital frontier! We envision RAiD as a pioneering force in digital innovation, with a cutting-edge team at its core.
 
-  .custom-card img {
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-  }
+To turn this vision into reality, we are on the lookout for exceptional talent - individuals who are not only visionaries but also possess the skills and expertise to bring the RSAF's digital aspirations to life. Join us and play a pivotal role in shaping the future of air defense technology.  Be a part of a team that values innovation and collaboration, offering a unique opportunity to work closely with esteemed industry partners. From spearheading digital transformation initiatives to developing state-of-the-art cybersecurity strategies, there are exciting positions waiting for you. 
 
-  .card-body {
-    padding: 15px;
-  }
+**Are you up for the challenge of redefining the digital landscape for the Republic of Singapore Air Force? Apply here to get in touch with us.**
 
-  .arrow-button {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 5px 10px;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-</style>
+At RAiD, we also recognize the transformative power of collaboration. We are actively seeking to partner with industry leaders to further elevate our capabilities. By working hand-in-hand with esteemed industry collaborators, RAiD ensures that our digital strategies remain at the forefront of innovation, aligned with industry best practices. 
+**Explore collaboration opportunities with RAiD by applying here.**
 
-<div class="container mt-4">
-  <div class="row">
-
-    <div class="col-sm-12 col-md-6 col-lg-4">
-      <a class="custom-card" href="https://staging.d3l9ujmetmnqdg.amplifyapp.com/join-us/roles/software-engineer/">
-        <img class="rounded-top" alt="Software Engineer" src="https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?q=80&amp;w=1076&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-        <div class="card-body">
-          <h5 class="card-title">Software Engineer</h5>
-          <button class="arrow-button">→</button>
-        </div>
-      </a>
-    </div>
-
-    <div class="col-sm-12 col-md-6 col-lg-4">
-      <a class="custom-card" href="#">
-        <img class="rounded-top" alt="Data Analyst" src="https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&amp;w=1106&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-        <div class="card-body">
-          <h5 class="card-title">Data Analyst</h5>
-          <button class="arrow-button">→</button>
-        </div>
-      </a>
-    </div>
-
-    <div class="col-sm-12 col-md-6 col-lg-4">
-      <a class="custom-card" href="#">
-        <img class="rounded-top" alt="Cloud Architect" src="https://images.unsplash.com/photo-1600267165477-6d4cc741b379?q=80&amp;w=1170&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
-        <div class="card-body">
-          <h5 class="card-title">Cloud Architect</h5>
-          <button class="arrow-button">→</button>
-        </div>
-      </a>
-    </div>
-
-  </div>
-</div>
