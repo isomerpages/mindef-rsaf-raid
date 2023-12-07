@@ -4,8 +4,8 @@ links:
     collection: about-us
   - title: Join Us
     collection: join-us
-  - title: Partner Us
-    collection: partner-us
+  - title: Partner Us Archive
+    collection: partner-us-archive
   - title: What's New
     resource_room: true
   - title: Get In Touch
