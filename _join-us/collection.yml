@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The RAiD Experience.md
+      - Roles/UX Designer.md
       - Roles/Cybersecurity Engineer.md
       - Roles/Data Scientist.md
       - Roles/.keep
