@@ -28,7 +28,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-two"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -38,7 +38,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-three"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -50,7 +50,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 </div>
 <div class="row">
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div style="background-image: url('https://i.imgur.com/ghBAE8v.jpg'); 
+    <a class="card-link" href="/open-innovation-topics/topic-four"><div style="background-image: url('https://i.imgur.com/ghBAE8v.jpg'); 
                 background-size: cover; 
                 background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
@@ -62,7 +62,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="=/open-innovation-topics/topic-one"><div style="background-image: url('https://i.imgur.com/583Fvhc.jpg'); 
+    <a class="card-link" href="=/open-innovation-topics/topic-five"><div style="background-image: url('https://i.imgur.com/583Fvhc.jpg'); 
                 background-size: cover; 
                 background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
@@ -74,7 +74,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div style="background-image: url('https://i.imgur.com/xKetCHr.jpg'); 
+    <a class="card-link" href="/open-innovation-topics/topic-six"><div style="background-image: url('https://i.imgur.com/xKetCHr.jpg'); 
                 background-size: cover; 
                 background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
