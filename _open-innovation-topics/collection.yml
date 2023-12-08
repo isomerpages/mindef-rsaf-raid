@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Topic 1.md
-      - Problem 2.md
+      - Topic 2.md
       - Problem 3.md
       - Problem 4.md
       - Problem 5.md
