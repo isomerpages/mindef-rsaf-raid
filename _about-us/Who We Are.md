@@ -44,7 +44,7 @@ description: ""
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px;position:relative">
-		<img src="/images/Gek_peng.jpeg" style="border-radius:8px;">
+		<img src="/images/jerome_tay.jpg" style="border-radius:8px;">
 		<h4 style="margin-top:4px"><b>Jerome Tay</b></h4>  
 		<div>
 			<b>Head Plans, Processes, Partnership and People Branch</b>
