@@ -4,6 +4,8 @@ permalink: /open-innovation-topics/topic-one/
 variant: markdown
 description: ""
 ---
+<style>.bp-button, .card-link{text-decoration: none !important;}}</style>
+
 <h1>This is my problem title</h1>
 
  <img alt="Open Innovation Challenge" src="https://i.imgur.com/ghBAE8v.jpg">
