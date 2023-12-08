@@ -18,7 +18,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 </p>
 <div class="row">
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -31,7 +31,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-two"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -44,7 +44,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-three"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -59,7 +59,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 </div>
 <div class="row">
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-four"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -72,7 +72,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-five"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="=/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -85,7 +85,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-challenges/problem-six"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</b>
