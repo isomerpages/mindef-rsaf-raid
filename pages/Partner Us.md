@@ -70,7 +70,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div style="background-image: url(https://www.mindef.gov.sg/web/wcm/connect/rsaf/4f95d15a-dd36-4e5f-9e2f-7f7285dee4f1/02.jpg?MOD=AJPERES);" class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. . Lorem Ipsum has been the industr. Lorem Ipsum has </b>
@@ -81,3 +81,5 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
   </div>
 </div>
 <p><a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a></p></div>
+
+![](/images/Partnership/OIT/blurredcard_image_cropped.jpeg)
