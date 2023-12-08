@@ -4,7 +4,7 @@ permalink: /partner-us/
 variant: markdown
 description: ""
 ---
-<style>.bp-button, .card-link{text-decoration: none !important;}  h5.has-text-white { color: black !important; }</style>
+<style>.bp-button, .card-link{text-decoration: none !important;}  h5.has-text-white { color: white !important; }</style>
 <h1>Republic of Singapore Air Force</h1>
 <img alt="RSAF Feature Image" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2021/05/24/yq-rsaf-24052025.jpg?VersionId=Tls5k2P1aPwDf.V.RXmzxGL5oTkQeWas">
 <p>
@@ -50,7 +50,9 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 </div>
 <div class="row">
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div style="background-image: url('https://i.imgur.com/ghBAE8v.jpg'); 
+                background-size: cover; 
+                background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -60,7 +62,9 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="=/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="=/open-innovation-topics/topic-one"><div style="background-image: url('https://i.imgur.com/583Fvhc.jpg'); 
+                background-size: cover; 
+                background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Problem Title Goes here</b>
@@ -70,7 +74,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div style="background-image: url('https://c.wallhere.com/photos/5f/a4/aircraft_vehicle_aircraft_carrier_motion_blur_military_aircraft_military_E_2_Hawkeye-56311.jpg!d'); 
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div style="background-image: url('https://i.imgur.com/xKetCHr.jpg'); 
                 background-size: cover; 
                 background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
@@ -83,5 +87,3 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
   </div>
 </div>
 <p><a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a></p></div>
-
-![](/images/Partnership/OIT/blurredcard_image_cropped.jpeg)
