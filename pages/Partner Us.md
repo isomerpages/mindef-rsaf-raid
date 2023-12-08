@@ -70,7 +70,9 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
     </a>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
+    <a class="card-link" href="/open-innovation-topics/topic-one"><div style="background-image: url('https://c.wallhere.com/photos/5f/a4/aircraft_vehicle_aircraft_carrier_motion_blur_military_aircraft_military_E_2_Hawkeye-56311.jpg!d'); 
+                background-size: cover; 
+                background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
             <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. . Lorem Ipsum has been the industr. Lorem Ipsum has </b>
