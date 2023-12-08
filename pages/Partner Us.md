@@ -4,7 +4,7 @@ permalink: /partner-us/
 variant: markdown
 description: ""
 ---
-<style>.bp-button, .card-link{text-decoration: none !important;}</style>
+<style>.bp-button, .card-link{text-decoration: none !important;}  h5.has-text-white { color: white !important; }</style>
 <h1>Republic of Singapore Air Force</h1>
 <img alt="RSAF Feature Image" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2021/05/24/yq-rsaf-24052025.jpg?VersionId=Tls5k2P1aPwDf.V.RXmzxGL5oTkQeWas">
 <p>
@@ -20,7 +20,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
   <div class="col">
     <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
         <div>
-          <h5 class="has-text-white">
+						<h5 class="has-text-white">
             <b>Problem Title Goes here</b>
           </h5>
         </div>
