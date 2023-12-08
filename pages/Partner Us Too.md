@@ -57,7 +57,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
         <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
       </a>
       <div class="header">
-        <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
         <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic two" class="card-img-top">
       </a>
       <div class="header">
-       <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
+       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
       </div>
     </div>
   </div>
@@ -77,7 +77,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic three" class="card-img-top">
       </a>
       <div class="header">
-        <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
       </div>
     </div>
   </div>
