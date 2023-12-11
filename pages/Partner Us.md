@@ -82,7 +82,7 @@ We invite companies and organizations from diverse technological backgrounds to 
                 background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
         <div>
           <h5 class="has-text-white">
-            <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. . Lorem Ipsum has been the industr. Lorem Ipsum has </b>
+            <b>Lorem Ipsum</b>
           </h5>
         </div>
       </div>
