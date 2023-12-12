@@ -23,13 +23,7 @@ description: ""
 			</div>
 	</div>  
 </div>
-<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
-	<div style="margin:16px">
-		<img src="/images/hdcyber.png" style="border-radius:8px;">
-		<h4 style="margin-top:4px"><b>Ng Ying Tat</b></h4>  
-		<b>Head Cyber Defense Branch</b>
-	</div>  
-</div>
+
 </div>
 
 <div style="display:flex;width:104vh;">
@@ -51,11 +45,22 @@ description: ""
 			</div>
 	</div>  
 </div>
+
+</div>
+<div style="display:flex;width:104vh;">
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
 	<div style="margin:16px">
-		<img src="/images/oliver.png" style="border-radius:8px;">
-		<h4 style="margin-top:4px"><b>Oliver Teo</b></h4>  
+		<img src="/images/ng_ying_tat.jpg" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>Ng Ying Tat</b></h4>  
+		<b>Head Cyber Defense Branch</b>
+	</div>  
+</div>
+<div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
+	<div style="margin:16px">
+		<img src="/images/Gek_peng.jpeg" style="border-radius:8px;">
+		<h4 style="margin-top:4px"><b>George</b></h4>  
 		<b>Head Software Engineering Squadron</b>
 	</div>  
 </div>
+
 </div>
