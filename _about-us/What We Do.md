@@ -67,26 +67,3 @@ description: ""
 		<div class="has-text-justified">Enables those at the command post to estimate the amount of collateral damage that would occur after a particular weapon is employed.
 </div>
 <br></div></div>
-<div class="row">
-<div class="col"> 
-<img alt="" src="/images/1685636474423.jpeg"><br>
-		<div class="has-text-centered"><b>Project 1</b></div><br>
-		<div class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<img alt="" src="/images/1685636474423.jpeg"><br>
-		<div class="has-text-centered"><b>Project 1</b></div><br>
-		<div class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-</div>
-<br>
-
-</div>
-	<div class="col"> 
-<img alt="" src="/images/1685636474423.jpeg"><br>
-		<div class="has-text-centered"><b>Project 1</b></div><br>
-		<div class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-</div>
-<br></div></div>
