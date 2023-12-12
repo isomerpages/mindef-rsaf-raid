@@ -2,7 +2,7 @@
 layout: homepage
 title: RAiD
 description: An Isomer site of the Singapore Government
-image: /images/Black_RAiD__Reg_.svg
+image: /images/Black_RAiD__Reg_.png
 permalink: /
 notification: ""
 sections:
