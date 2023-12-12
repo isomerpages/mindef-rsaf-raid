@@ -2,11 +2,11 @@ collections:
   open-innovation-topics:
     output: true
     order:
-      - Archived/TEST.md
-      - Archived/.keep
       - Topic 1.md
       - Topic 2.md
       - Topic 3.md
       - Topic 4.md
       - Topic 5.md
       - Topic 6.md
+      - Archived/.keep
+      - Archived/TEST.md
