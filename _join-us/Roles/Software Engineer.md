@@ -1,16 +1,8 @@
 ---
 title: Software Engineer
 permalink: /join-us/roles/software-engineer/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Roles
 ---
-<h2><span style="color:#081f3c">Software Engineer</span></h2>
-<img src="https://i.pinimg.com/originals/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg" alt="Software Engineer's Image">
-<h4>zzz talks about his experience as a Software Engineer</h4>
-<ol>
-	<li>How do you stay updated on the latest industry trends and technologies?</li>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	<li>What would you do if you were assigned a project with a technology you're not familiar with?</li>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-</ol>
+<h2>XXX</h2><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="Software Engineer's Image" src="https://i.pinimg.com/originals/fa/44/2d/fa442d3d5f5cc68bdcd516282c15e26d.jpg"></div><p><strong>Hello XXX, nice to meet you! Could you introduce yourself?</strong></p><p>I'm XX, a Software Engineer from RAiD.</p><p><strong>What first sparked your interest in software engineering?</strong></p><p>xx</p><p><strong>What's been your biggest learning experience so far in your career?</strong></p><p>xx</p><p><strong>How do you stay motivated and engaged in your work?</strong></p><p>xx</p><p><strong>Can you describe your experience with (specific technology relevant to the role)?</strong></p><p>xx</p><p><strong>Lastly, what's your favorite meme about programmers?</strong></p><p>xx</p><p></p>
