@@ -14,8 +14,9 @@ sections:
           description: ""
           url: /about-us/our-story/
   - infopic:
+      title: MISSION
       id: infopic
-      image: /images/Placeholder test images /Mission.jpg
+      image: /images/Placeholder test images /photo_2023_12_12_17_10_44.jpg
       alt: Image alt text
       description: |
         To leverage digital technology for the RSAF to achieve air dominance
