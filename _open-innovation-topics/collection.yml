@@ -2,6 +2,7 @@ collections:
   open-innovation-topics:
     output: true
     order:
+      - Archived/TEST.md
       - Archived/.keep
       - Topic 1.md
       - Topic 2.md
