@@ -7,11 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Placeholder test images /Homepage1.jpg
-      variant: center
-      title: The Digital Force of Our Air Force
+      background: /images/Placeholder test images /Airshow100216bsm.jpg
+      variant: image
       key_highlights:
-        - title: RSAF Agile Innovation & Digital
+        - title: RSAF  Agile Innovation & Digital
           description: ""
           url: /about-us/our-story/
   - infopic:
