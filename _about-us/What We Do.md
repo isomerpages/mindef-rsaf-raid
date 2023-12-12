@@ -54,17 +54,17 @@ description: ""
 
 </div>
 	<div class="col"> 
-<img alt="" src="/images/1685636474423.jpeg"><br>
-		<div class="has-text-centered"><b>Project 1</b></div><br>
-		<div class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+<img alt="" src="/images/What%20We%20Do/Multiple_Target_Solutioning.jpg"><br>
+		<div class="has-text-centered"><b>Multiple Target Solutioning</b></div><br>
+		<div class="has-text-justified">Gives the Command and Control Information System the ability to recommend the best weapon response to multiple targets.
 </div>
 <br>
 
 </div>
 	<div class="col"> 
-<img alt="" src="/images/1685636474423.jpeg"><br>
-		<div class="has-text-centered"><b>Project 1</b></div><br>
-		<div class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+<img alt="" src="/images/What%20We%20Do/Collateral_Damage.jpg"><br>
+		<div class="has-text-centered"><b>Collateral Damage</b></div><br>
+		<div class="has-text-justified">Enables those at the command post to estimate the amount of collateral damage that would occur after a particular weapon is employed.
 </div>
 <br></div></div>
 <div class="row">
