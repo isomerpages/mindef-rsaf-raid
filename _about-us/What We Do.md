@@ -46,9 +46,9 @@ description: ""
 <h2><span style="color:#081f3c">Products/ Projects</span></h2>
 <div class="row">
 <div class="col"> 
-<img alt="" src=""><br>
+<img alt="" src="/images/What%20We%20Do/BESPIN.jpeg"><br>
 		<div class="has-text-centered"><b>Project 1</b></div><br>
-		<div class="has-text-justified">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+		<div class="has-text-justified">Over an eight-week period, BESPIN and RAiD members worked together to develop Stargazer, a plugin designed to monitor open text fields and detect when sensitive information is submitted.
 </div>
 <br>
 
