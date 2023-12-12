@@ -1,6 +1,6 @@
 title: RAiD
 url: https://www.open.gov.sg
-favicon: /images/Black_RAiD__Reg_.svg
+favicon: /images/Black_RAiD__Reg_.png
 colors:
   primary-color: "#081f3c"
   secondary-color: "#176cb5"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.d145u2ygm3gfm9.amplifyapp.com
 prod: https://master.d3l9ujmetmnqdg.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/Black_RAiD__Reg_.svg
+shareicon: /images/Black_RAiD__Reg_.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
