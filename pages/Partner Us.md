@@ -17,7 +17,7 @@ We invite companies and organizations from diverse technological backgrounds to 
 
 <div>
 <h2>Open Innovation Topics</h2>
-<p> We put a spotlight on ongoing issues and innovation opportunities within RSAF and warmly invite potential partners to join us in crafting solutions and driving progress together. Got a tech solution that might fit our needs? We're all ears – <a href="https://www.mindef.gov.sg/web/portal/rsaf/home/">contact us</a> to see how we can work together.
+<p> We put a spotlight on ongoing issues and innovation opportunities within RSAF and warmly invite potential partners to join us in crafting solutions and driving progress together. Got a tech solution that might fit our needs? We're all ears – contact us to see how we can work together.
 </p>
 <div class="row">
   <div class="col">
