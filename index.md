@@ -18,8 +18,7 @@ sections:
       id: infopic
       image: /images/Placeholder test images /photo_2023_12_12_17_10_44.jpg
       alt: Image alt text
-      description: |
-        To leverage digital technology for the RSAF to achieve air dominance
+      description: To leverage digital technology for the RSAF to achieve air dominance
   - infopic:
       id: infopic
       image: /images/Placeholder test images /photo_2023_12_12_17_10_34.jpg
@@ -31,5 +30,4 @@ sections:
   - resources:
       title: What's New
       id: resources
-      subtitle: our latest updates
 ---
