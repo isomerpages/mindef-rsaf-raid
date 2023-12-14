@@ -1,0 +1,4 @@
+collections:
+  oit-archives:
+    output: true
+    order: []
