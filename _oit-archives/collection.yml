@@ -1,4 +1,5 @@
 collections:
   oit-archives:
     output: true
-    order: []
+    order:
+      - Topic 6.md
