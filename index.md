@@ -23,7 +23,7 @@ sections:
         Airmen with our solveware)"
   - infopic:
       id: infopic
-      image: /images/Placeholder test images /photo_2023_12_12_17_10_34.jpg
+      image: /images/Placeholder test images /1.jpeg
       alt: Image alt text
       description: To be the digital edge of the RSAF, through a culture of
         innovation, collaboration, agility, and a drive for operational
