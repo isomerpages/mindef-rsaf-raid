@@ -8,16 +8,16 @@ description: ""
 <h1>Republic of Singapore Air Force</h1>
 <img alt="RSAF Feature Image" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2021/05/24/yq-rsaf-24052025.jpg?VersionId=Tls5k2P1aPwDf.V.RXmzxGL5oTkQeWas">
 <p>
-At RAiD, we understand that modernizing the air force is an ongoing journey — one that requires collaborative efforts, fresh perspectives, and innovative solutions. RSAF is an ever-evolving entity, continually seeking advancements to digitalize our processes and enhance operational efficiency. Our goal is to streamline operations, maximize efficiency, and create a future-ready force that excels in every domain. While the RSAF functions as one united entity, it comprises distinct commands, each with its unique requirements and objectives.
+At RAiD, we understand that modernizing the air force is an ongoing journey — one that requires collaborative efforts, fresh perspectives, and innovative solutions. RSAF is an ever-evolving entity, continually seeking to enhance operational effectiveness. Our goal is to streamline operations, maximize efficiency, and create a future-ready force that excels in every domain. While the RSAF functions as one united entity, it comprises distinct commands, each with its unique requirements and objectives.
 	
-<a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands">Click here</a>  to explore the various commands within the air force.
+<a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands">Click here</a>  to explore the various commands within the Air Force.
 
-We invite companies and organizations from diverse technological backgrounds to explore partnerships with us. Whether you offer groundbreaking solutions, cutting-edge technology, or innovative ideas, your collaboration could be pivotal in shaping the future of our force. Partner with us to explore how your solutions or technologies can align with our goals, contributing to the modernization of RSAF. Let's work together to make our force the epitome of technological advancement and operational excellence.
+We invite companies and organizations to explore partnerships with us. Whether you offer groundbreaking solutions, cutting-edge technology, or innovative ideas, your collaboration could be pivotal in shaping the future of our Air Force. Partner with us to explore how your solutions or technologies can align with our goals, contributing to the modernization of RSAF.
 </p>
 
 <div>
 <h2>Open Innovation Topics</h2>
-<p> We put a spotlight on ongoing issues and innovation opportunities within RSAF and warmly invite potential partners to join us in crafting solutions and driving progress together. Got a tech solution that might fit our needs? We're all ears – contact us to see how we can work together.
+<p> We put a spotlight on ongoing issues and innovation opportunities within the RSAF and warmly invite potential partners to join us in crafting solutions and driving progress together. Got a tech solution that might fit our needs? We're all ears – contact us to see how we can work together.
 </p>
 <div class="row">
   <div class="col">
