@@ -7,7 +7,7 @@ description: ""
 <div class="row"> 
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2); margin:16px" class="col"> 
 <img style="border-radius:8px;" src="/images/Who%20We%20Are/Gek_peng.jpeg"> 
-<h4 style="margin-top:4px"><b>Gek Peng Tay</b></h4>
+<h4 style="margin-top:4px"><b>Tay Gek Peng</b></h4>
 <div> <b>Head RAiD</b> </div>
 </div> 
 	
