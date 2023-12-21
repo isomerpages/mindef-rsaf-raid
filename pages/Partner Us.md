@@ -6,7 +6,7 @@ description: ""
 ---
 <style>.bp-button, .card-link{text-decoration: none !important;}  h5.has-text-white { color: white !important; }</style>
 <h1>Republic of Singapore Air Force</h1>
-<img alt="RSAF Feature Image" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2021/05/24/yq-rsaf-24052025.jpg?VersionId=Tls5k2P1aPwDf.V.RXmzxGL5oTkQeWas">
+<img alt="RSAF Feature Image" src="https://www.mindef.gov.sg/web/wcm/connect/mindef/cd053e3f-659c-42af-a6db-dd5856ab1183/11jul23_nr-photo3.jpg?MOD=AJPERES">
 <p>
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 	
