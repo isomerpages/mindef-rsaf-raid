@@ -20,21 +20,21 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 	<div class="row">
   <div class="col">
     <div class="card sgds">
-			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="/images/Partnership/OIT/16040589_bf01_4267_a80a_110ac2a578cf.jpg" alt="topic one" class="card-img-top">
 			<a href="/open-innovation-topics/topic-one" class="card-link"> Topic 1 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="/images/Partnership/OIT/7a11be12_65b9_4263_9621_5fd7d8c8eb1a.jpg" alt="topic one" class="card-img-top">
 			<a href="/open-innovation-topics/topic-two" class="card-link"> Topic 2 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="/images/Partnership/OIT/3db49f17_c35d_4017_9e20_31cd25dcfbca.jpg" alt="topic one" class="card-img-top">
 			<a href="/open-innovation-topics/topic-three" class="card-link"> Topic 3 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
     </div>
@@ -44,21 +44,21 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 	<div class="row">
   <div class="col">
     <div class="card sgds">
-			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="/images/Partnership/OIT/3db49f17_c35d_4017_9e20_31cd25dcfbca.jpg" alt="topic one" class="card-img-top">
 			<a href="/open-innovation-topics/topic-four" class="card-link"> Topic 4 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="/images/Partnership/OIT/c1c24217_b12f_4911_ae28_64ef4aae4b73.jpg" alt="topic one" class="card-img-top">
 			<a href="/open-innovation-topics/topic-five" class="card-link"> Topic 5 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="/images/Partnership/OIT/16040589_bf01_4267_a80a_110ac2a578cf.jpg" alt="topic one" class="card-img-top">
 			<a href="/open-innovation-topics/topic-six" class="card-link"> Topic 6 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
     </div>
