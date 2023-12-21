@@ -18,7 +18,9 @@ sections:
       id: infopic
       image: /images/Placeholder test images /photo_2023_12_12_17_10_44.jpg
       alt: Image alt text
-      description: To leverage digital technology for the RSAF to achieve air dominance
+      description: "To leverage digital technology for the RSAF to achieve air
+        dominance (Alt: To bring smarts and smiles to our Air Force and our
+        Airmen with our solveware)"
   - infopic:
       id: infopic
       image: /images/Placeholder test images /photo_2023_12_12_17_10_34.jpg
