@@ -2,9 +2,9 @@ collections:
   open-innovation-topics:
     output: true
     order:
-      - Topic 6.md
       - Topic 1.md
       - Topic 2.md
       - Topic 3.md
       - Topic 4.md
       - Topic 5.md
+      - Topic 6.md
