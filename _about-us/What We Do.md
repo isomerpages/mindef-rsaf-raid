@@ -9,19 +9,19 @@ description: ""
 <div class="row">
 <div class="col">
 <img src="/images/What%20We%20Do/1.png"><br>
-	<div class="has-text-centered"><b>Data Science</b></div><br>
+	<div class="has-text-centered"><b>Data Science</b></div><br><br>
 <div class="has-text-justified">We harness the power of data to uncover hidden insights, drive informed decisions, and optimize outcomes. Our data scientists leverage cutting-edge tools and techniques to extract valuable knowledge from complex datasets, transforming it into actionable intelligence. 
 </div>
 </div>
 	<div class="col">
 <img src="/images/What%20We%20Do/2.png"><br>
-		<div class="has-text-centered"><b>Cloud Management</b></div><br>
+		<div class="has-text-centered"><b>Cloud Management</b></div><br><br>
 <div class="has-text-justified">We empower businesses to harness the agility and scalability of the cloud. Our expert cloud architects and engineers design, implement, and manage cloud solutions tailored to your specific needs, ensuring cost-efficiency, security, and performance.
 </div>
 </div>
 <div class="col">
 <img src="/images/What%20We%20Do/3.png"><br>
-	<div class="has-text-centered"><b>Cyber Security</b></div><br>
+	<div class="has-text-centered"><b>Cyber Security</b></div><br><br>
 <div class="has-text-justified">We safeguard your digital assets from evolving threats with proactive and comprehensive security solutions. Our team of security experts implement best practices, monitor for vulnerabilities, and respond to incidents swiftly, mitigating risks and ensuring business continuity.
 </div>
 </div>
