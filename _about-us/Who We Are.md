@@ -19,7 +19,7 @@ description: ""
 		<img src="/images/Who%20We%20Are/troy_tan.jpg" style="border-radius:8px;">
 		<h4 style="margin-top:4px"><b>Troy Tan</b></h4>  
 		<div>
-			<b>Head Swift</b>
+			<b>Head SWiFT</b>
 			</div>
 	</div>  
 </div>
@@ -52,7 +52,7 @@ description: ""
 	<div style="margin:16px">
 		<img src="/images/Who%20We%20Are/hdcyber.png" style="border-radius:8px;">
 		<h4 style="margin-top:4px"><b>Ng Ying Tat</b></h4>  
-		<b>Head Cyber Defense Branch</b>
+		<b>Head Cyber Defence Branch</b>
 	</div>  
 </div>
 <div style="color:black;font-size:30;border-radius:8px;box-shadow:0 4px 8px 0 rgba(0,0,0,0.2);width:30%;margin:16px">
