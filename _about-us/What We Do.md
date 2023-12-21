@@ -4,7 +4,7 @@ permalink: /about-us/what-we-do/
 variant: markdown
 description: ""
 ---
-<h2><span style="color:#081f3c">Expertise</span></h2>
+# Expertise
 
 <div class="row">
 <div class="col">
@@ -43,8 +43,8 @@ description: ""
 </div>
 	</div>
 
-<h2><span style="color:#081f3c">Products/ Projects</span></h2>
-<div class="row">
+# Products/ Projects
+# <div class="row">
 <div class="col"> 
 <img alt="" src="/images/What%20We%20Do/BESPIN.jpeg"><br>
 		<div class="has-text-centered"><b>Stargazer</b></div><br>
