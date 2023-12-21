@@ -10,7 +10,7 @@ sections:
       background: /images/Placeholder test images /Airshow100216bsm.jpg
       variant: image
       key_highlights:
-        - title: RSAF  Agile Innovation & Digital
+        - title: RSAF · Agile · Innovation · Digital
           description: ""
           url: /about-us/our-story/
   - infopic:
