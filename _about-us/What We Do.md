@@ -31,13 +31,13 @@ description: ""
 <div class="row">
 	<div class="col">
 <img src="/images/What%20We%20Do/4.png"><br>
-		<div class="has-text-centered"><b>Innovation</b></div><br>
+		<div class="has-text-centered"><b>Innovation</b></div><br><br>
 <div class="has-text-justified">We foster a culture of creativity and collaboration to drive breakthrough solutions. We encourage experimentation, embrace risk, and invest in emerging technologies to develop innovative products and services that meet the ever-changing needs of the market.
 </div>
 </div>
 <div class="col">
 <img src="/images/What%20We%20Do/5.png"><br>
-	<div class="has-text-centered"><b>Digital Strategy &amp; Plans</b></div><br>
+	<div class="has-text-centered"><b>Digital Strategy &amp; Plans</b></div><br><br>
 <div class="has-text-justified">We navigate the digital landscape with strategic clarity and foresight. We develop comprehensive digital strategies aligned with your business goals, encompassing user experience design, marketing automation, and data-driven decision-making.
 </div>
 </div>
