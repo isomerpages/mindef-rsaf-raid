@@ -44,7 +44,7 @@ description: ""
 	</div>
 
 # Products/ Projects
-# <div class="row">
+<div class="row">
 <div class="col"> 
 <img alt="" src="/images/What%20We%20Do/BESPIN.jpeg"><br>
 		<div class="has-text-centered"><b>Stargazer</b></div><br>
@@ -66,4 +66,6 @@ description: ""
 		<div class="has-text-centered"><b>Collateral Damage</b></div><br>
 		<div class="has-text-justified">Enables those at the command post to estimate the amount of collateral damage that would occur after a particular weapon is employed.
 </div>
-<br></div></div>
+<br>
+</div>
+</div>
