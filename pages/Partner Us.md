@@ -20,32 +20,23 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 	<div class="row">
   <div class="col">
     <div class="card sgds">
-      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-combat-command" class="card-link">
-        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<a href="/open-innovation-topics/topic-one" class="card-link"> Topic 1 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
-      <div class="header">
-        <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
-      </div>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-defence-operations-command" class="card-link">
-        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic two" class="card-img-top">
+			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<a href="/open-innovation-topics/topic-two" class="card-link"> Topic 2 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
-      <div class="header">
-       <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
-      </div>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-power-generation-command" class="card-link">
-       <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic three" class="card-img-top">
+			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<a href="/open-innovation-topics/topic-three" class="card-link"> Topic 3 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
-      <div class="header">
-        <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
-      </div>
     </div>
   </div>
 </div>
@@ -53,32 +44,23 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 	<div class="row">
   <div class="col">
     <div class="card sgds">
-      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-combat-command" class="card-link">
-        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<a href="/open-innovation-topics/topic-four" class="card-link"> Topic 4 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
-      <div class="header">
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-      </div>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-defence-operations-command" class="card-link">
-        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic two" class="card-img-top">
+			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<a href="/open-innovation-topics/topic-five" class="card-link"> Topic 5 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
-      <div class="header">
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-      </div>
     </div>
   </div>
   <div class="col">
     <div class="card sgds">
-      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-power-generation-command" class="card-link">
-       <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic three" class="card-img-top">
+			<img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+			<a href="/open-innovation-topics/topic-six" class="card-link"> Topic 6 title goes here. Lorem Ipsum is simply dummy text of the printing and typesetting industry
       </a>
-      <div class="header">
-        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
-      </div>
     </div>
   </div>
 </div>
