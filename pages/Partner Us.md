@@ -8,85 +8,78 @@ description: ""
 <h1>Republic of Singapore Air Force</h1>
 <img alt="RSAF Feature Image" src="https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2021/05/24/yq-rsaf-24052025.jpg?VersionId=Tls5k2P1aPwDf.V.RXmzxGL5oTkQeWas">
 <p>
-At RAiD, we understand that modernizing the air force is an ongoing journey — one that requires collaborative efforts, fresh perspectives, and innovative solutions. RSAF is an ever-evolving entity, continually seeking to enhance operational effectiveness. Our goal is to streamline operations, maximize efficiency, and create a future-ready force that excels in every domain. While the RSAF functions as one united entity, it comprises distinct commands, each with its unique requirements and objectives.
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 	
-<a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands">Click here</a>  to explore the various commands within the Air Force.
-
-We invite companies and organizations to explore partnerships with us. Whether you offer groundbreaking solutions, cutting-edge technology, or innovative ideas, your collaboration could be pivotal in shaping the future of our Air Force. Partner with us to explore how your solutions or technologies can align with our goals, contributing to the modernization of RSAF.
+<a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands">Click here</a> to read more about the 6 RSAF commands. 
 </p>
 
-<div>
 <h2>Open Innovation Topics</h2>
-<p> We put a spotlight on ongoing issues and innovation opportunities within the RSAF and warmly invite potential partners to join us in crafting solutions and driving progress together. Got a tech solution that might fit our needs? We're all ears – contact us to see how we can work together.
+<p> We put a spotlight on ongoing issues and innovation opportunities within RSAF and warmly invite potential partners to join us in crafting solutions and driving progress together. Got a tech solution that might fit our needs? We're all ears – <a href="https://www.mindef.gov.sg/web/portal/rsaf/home/">contact us</a> to see how we can work together.
 </p>
-<div class="row">
+<div>
+	<div class="row">
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-one"><div class="media-card-plain bg-media-color-1 padding--lg">
-        <div>
-						<h5 class="has-text-white">
-            <b>Problem Title Goes here</b>
-          </h5>
-        </div>
-			</div>
-    </a>
+    <div class="card sgds">
+      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-combat-command" class="card-link">
+        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+      </a>
+      <div class="header">
+        <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
+      </div>
+    </div>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-two"><div class="media-card-plain bg-media-color-1 padding--lg">
-        <div>
-          <h5 class="has-text-white">
-            <b>Problem Title Goes here</b>
-          </h5>
-        </div>
+    <div class="card sgds">
+      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-defence-operations-command" class="card-link">
+        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic two" class="card-img-top">
+      </a>
+      <div class="header">
+       <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
       </div>
-    </a>
+    </div>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-three"><div class="media-card-plain bg-media-color-1 padding--lg">
-        <div>
-          <h5 class="has-text-white">
-            <b>Problem Title Goes here</b>
-          </h5>
-        </div>
+    <div class="card sgds">
+      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-power-generation-command" class="card-link">
+       <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic three" class="card-img-top">
+      </a>
+      <div class="header">
+        <b>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </b>
       </div>
-    </a>
+    </div>
   </div>
 </div>
-<div class="row">
+<div>
+	<div class="row">
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-four"><div style="background-image: url('https://i.imgur.com/ghBAE8v.jpg'); 
-                background-size: cover; 
-                background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
-        <div>
-          <h5 class="has-text-white">
-            <b>Problem Title Goes here</b>
-          </h5>
-        </div>
+    <div class="card sgds">
+      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-combat-command" class="card-link">
+        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic one" class="card-img-top">
+      </a>
+      <div class="header">
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
       </div>
-    </a>
+    </div>
   </div>
   <div class="col">
-    <a class="card-link" href="=/open-innovation-topics/topic-five"><div style="background-image: url('https://i.imgur.com/583Fvhc.jpg'); 
-                background-size: cover; 
-                background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
-        <div>
-          <h5 class="has-text-white">
-            <b>Problem Title Goes here</b>
-          </h5>
-        </div>
+    <div class="card sgds">
+      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-defence-operations-command" class="card-link">
+        <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic two" class="card-img-top">
+      </a>
+      <div class="header">
+       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
       </div>
-    </a>
+    </div>
   </div>
   <div class="col">
-    <a class="card-link" href="/open-innovation-topics/topic-six"><div style="background-image: url('https://i.imgur.com/xKetCHr.jpg'); 
-                background-size: cover; 
-                background-position: center;" class="media-card-plain bg-media-color-1 padding--lg">
-        <div>
-          <h5 class="has-text-white">
-            <b>Lorem Ipsum</b>
-          </h5>
-        </div>
+    <div class="card sgds">
+      <a href="https://www.mindef.gov.sg/web/portal/rsaf/rsaf-forces/commands/detail/air-power-generation-command" class="card-link">
+       <img src="https://i.imgur.com/ghBAE8v.jpg" alt="topic three" class="card-img-top">
+      </a>
+      <div class="header">
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
       </div>
-    </a>
+    </div>
   </div>
 </div>
-<p><a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a></p></div>
+<p><a class="bp-button is-primary is-uppercase search-button" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">Work with us!</a></p></div></div>
