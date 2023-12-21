@@ -25,8 +25,9 @@ sections:
       id: infopic
       image: /images/Placeholder test images /photo_2023_12_12_17_10_34.jpg
       alt: Image alt text
-      description: To be the digital edge of the RSAF, enabling it to achieve its full
-        potential through innovative software and data solutions
+      description: To be the digital edge of the RSAF, through a culture of
+        innovation, collaboration, agility, and a drive for operational
+        excellence.
       title: VISION
   - resources:
       title: What's New
