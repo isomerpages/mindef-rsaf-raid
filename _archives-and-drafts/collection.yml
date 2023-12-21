@@ -2,4 +2,5 @@ collections:
   archives-and-drafts:
     output: true
     order:
+      - Partner Us Too.md
       - Open Challenges Option B.md
