@@ -2,4 +2,5 @@ collections:
   partner-us:
     output: true
     order:
+      - Institutes of Higher Learning.md
       - RSAF Partnerships.md
