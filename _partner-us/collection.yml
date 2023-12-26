@@ -2,9 +2,9 @@ collections:
   partner-us:
     output: true
     order:
-      - Government Agencies/Foreign Government.md
-      - Government Agencies/Singapore Governement.md
       - Government Agencies/.keep
+      - Government Agencies/Singapore Governement.md
+      - Government Agencies/Foreign Government.md
       - Industry.md
       - Institutes of Higher Learning.md
       - RSAF Partnerships.md
