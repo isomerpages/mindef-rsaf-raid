@@ -2,4 +2,4 @@ collections:
   partner-us:
     output: true
     order:
-      - Partner Us.md
+      - RSAF Partnerships.md
