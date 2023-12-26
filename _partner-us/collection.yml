@@ -2,6 +2,7 @@ collections:
   partner-us:
     output: true
     order:
+      - Government Agencies/Singapore Governement.md
       - Government Agencies/.keep
       - Industry.md
       - Institutes of Higher Learning.md
