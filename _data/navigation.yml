@@ -5,7 +5,7 @@ links:
   - title: Join Us
     collection: join-us
   - title: Partner Us
-    url: /partner-us
+    collection: partner-us
   - title: What's New
     resource_room: true
   - title: Get In Touch
